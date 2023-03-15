@@ -1,1 +1,36 @@
+/*Esto es una prueba*/
+body {
+  background-color: lightblue;
+}
+h1{
+	font-weight: bold;
+	text-align: center;
+	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+	color: #fff;
+
+}
+
+h2{
+	font-weight: bold;
+	text-align: left;
+	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+	color: tomato;
+
+}
+
+p, ul{
+
+	font-family: Verdana, Helvetica, sans-serif;
+	color: black;
+	font-size: 24px;
+
+}
+
+img {
+  border-radius: 24px;
+}
+
+
+
+}
 
